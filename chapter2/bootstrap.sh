@@ -8,5 +8,5 @@ go mod tidy
 go run *.go
 
 # test
-go test ./animals
 go test .
+go test ./animals
