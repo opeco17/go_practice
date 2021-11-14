@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # init
-go mod init app
+go mod init chapter2
 go mod tidy
 
 # run

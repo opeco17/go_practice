@@ -1,3 +1,3 @@
-module app
+module chapter2
 
 go 1.16

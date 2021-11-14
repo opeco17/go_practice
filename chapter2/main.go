@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/animals"
+	"chapter2/animals"
 	"fmt"
 )
 
